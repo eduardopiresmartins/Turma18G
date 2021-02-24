@@ -1,0 +1,6 @@
+package LISTA1;
+
+public class Tarefa3 {
+	Scanner leia = new Scanner (System.in);
+	l
+}

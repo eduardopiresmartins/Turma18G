@@ -1,0 +1,9 @@
+
+public class PaieMae {
+public static void main(String[] args) {
+		
+		System.out.println("O nome do meu pai é Manuel");
+		
+		System.out.println("O nome da minha mãe é Maria");
+	}
+}
