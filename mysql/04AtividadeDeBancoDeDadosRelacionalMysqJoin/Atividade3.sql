@@ -71,3 +71,5 @@ select * from tb_categoria inner join tb_produto on tb_categoria.id = tb_produto
 /*Faça um select onde traga todos os Produtos de uma categoria específica (exemplo todos
 os produtos que são cosméticos).*/
 select * from tb_categoria inner join tb_produto on tb_categoria.id = tb_produto.categoria_id where quantidade = "Higiene Pessoal";
+
+
